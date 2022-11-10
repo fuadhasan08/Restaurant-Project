@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+
+.card.text-left {
+  text-align: left !important;
+}
